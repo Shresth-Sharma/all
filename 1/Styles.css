@@ -1,0 +1,6 @@
+.header{
+    background-color: darkcyan;
+    Display:flex;
+    justify-content: space-between;
+    order: 5;
+}
